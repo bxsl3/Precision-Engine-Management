@@ -20,17 +20,17 @@ Follow these instructions to install Engn on your system:
 
 1. **Windows**
     ```bash
-    $ winget install Engn
+    $ winget install Engine
     ```
 
 2. **macOS**
     ```bash
-    $ brew install engn
+    $ brew install Engine
     ```
 
 3. **Linux**
     ```bash
-    $ sudo apt-get install engn
+    $ sudo apt-get install Engine
     ```
 
 ---
